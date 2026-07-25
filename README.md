@@ -155,6 +155,3 @@ Feedstock Maintainers
 
 * [@tiagodc](https://github.com/tiagodc/)
 
-
-<!-- dummy commit to enable rerendering -->
-
